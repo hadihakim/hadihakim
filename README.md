@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br/>
 <p align="left">
   <a href="https://lia0wang.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hadihakim&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hadihakim&show_icons=true&theme=blueberry&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hadihakim&theme=radical&hide_border=true" />
   </a>
 </p>
